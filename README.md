@@ -4,7 +4,7 @@ This is a simple Django app that demonstrates how to create pages with class-bas
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/pages-app.git`
+1. Clone this repository: `git clone https://github.com/francoNdete/pages.git`
 2. Navigate to the project directory: `cd pages-app`
 3. Install the required packages: `pip install -r requirements.txt`
 
